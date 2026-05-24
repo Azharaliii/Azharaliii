@@ -19,8 +19,8 @@
 
 I am a 3rd-year **BS Computer Science (Specialization in AI)** student at **Sukkur IBA University, Pakistan**. My passion lies in bridging the gap between raw data and impactful business decisions. I focus on building strong practical foundations in data analytics, exploratory data analysis, and predictive machine learning models. 
 
-* 🔍 **Core Focus:** Interested in Exploratory Data Analysis (EDA), data cleaning, and compelling data storytelling.
-* 🧠 **Philosophy:** Strongly believe in problem-driven analysis—asking the right business questions before looking at the numbers.
+* 🔍 **Core Focus:** Interested in Exploratory Data Analysis, data cleaning, compelling data storytelling, and curious to build and learn new technologies.
+* 🧠 **Agenda:** Before creating any project, I first decided to solve the problem.
 * 🏆 **Competitive Edge:** Ranked **19th out of 50 teams** at the prestigious IBA Karachi ProBattle Machine Learning Competition.
 * 🌍 **Goal:** Open to remote Data Analyst internships and Junior Data Science opportunities globally.
 

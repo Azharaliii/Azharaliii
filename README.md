@@ -1,14 +1,15 @@
 <div align="center">
 
-# Hi, I'm Azhar Ali 👋
+# Hey 👋 I'm Azhar Ali
 ### 🤖 Data Analyst & Future AI/Machine Learning Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20BEFF&center=true&vCenter=true&width=550&lines=BS+Computer+Science+(AI)+Student;Data+Science+%26+ML+Enthusiast;Turning+Data+Into+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20BEFF&center=true&vCenter=true&width=600&lines=BS+Computer+Science+(AI)+Student;Data+Science+%26+ML+Enthusiast;Turning+Data+Into+Insights;Problem+Solver+%7C+Builder+%7C+Learner" alt="Typing SVG" />
 
-<br><br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrazharali)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/azharalisoomro)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AzharAli336/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azharaliofficial0521@gmail.com)
 
 </div>
@@ -17,25 +18,57 @@
 
 ## 👨‍💻 About Me
 
-I am a 3rd-year **BS Computer Science (Specialization in AI)** student at **Sukkur IBA University, Pakistan**. My passion lies in bridging the gap between raw data and impactful business decisions. I focus on building strong practical foundations in data analytics, exploratory data analysis, and predictive machine learning models. 
+I am a 3rd-year **BS Computer Science (Specialization in AI)** student at **Sukkur IBA University, Pakistan**. My passion lies in bridging the gap between raw data and impactful business decisions. I focus on building strong practical foundations in data analytics, exploratory data analysis, and predictive machine learning models.
 
 * 🔍 **Core Focus:** Interested in Exploratory Data Analysis, data cleaning, compelling data storytelling, and curious to build and learn new technologies.
-* 🧠 **Agenda:** Before creating any project, I first decided to solve the problem.
+* 🧠 **Agenda:** Before creating any project, I first decide to solve the problem.
 * 🏆 **Competitive Edge:** Ranked **19th out of 50 teams** at the prestigious IBA Karachi ProBattle Machine Learning Competition.
 * 🌍 **Goal:** Open to remote Data Analyst internships and Junior Data Science opportunities globally.
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack & Tools
 
-| Category | Technologies / Tools |
-| :--- | :--- |
-| **Languages** | Python, SQL, Java, C++ |
-| **Data Analysis** | Pandas, NumPy, Data Cleaning, Data Wrangling, EDA |
-| **Visualization** | Matplotlib, Seaborn, Excel Charts |
-| **Databases** | MySQL, JDBC, MongoDB |
-| **Developer Tools** | Git, GitHub, Jupyter Notebook, VS Code, PyCharm |
-| **Design & Platforms**| Kaggle, Google Colab, Figma, Canva |
+### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+### 📊 Data Science & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### 🧰 Developer Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</p>
+
+### 🎨 Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
 
 ---
 
@@ -62,10 +95,25 @@ Conducted statistical time-series tracking of global GDP trends across multiple 
 
 ---
 
+### 📝 Quiz Application
+A Java Swing GUI-based quiz app presenting multiple-choice questions with score tracking and performance feedback.
+* 🛠 `Java` `Java Swing` `AWT` `OOP`
+* 🔗 [View Project Repository 🚀](https://github.com/Azharaliii/Quiz-Applicaton)
+
+---
+
 ### 💼 Tasky Job Finder App
 A desktop application architecture designed to seamlessly connect local daily wagers with immediate job opportunities using structured local database systems.
 * 🛠 `Java` `Java Swing` `JDBC` `MySQL`
 * 🔗 [View Project Repository 🚀](https://github.com/Azharaliii/Tasky.javaProject)
+
+---
+
+## ⚔️ LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AzharAli336?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ---
 
@@ -76,7 +124,7 @@ A desktop application architecture designed to seamlessly connect local daily wa
 </p>
 
 <p align="center">
-  <img src="https://github-profile-readme-stats.vercel.app/api?username=Azharaliii&show_icons=true&theme=github_dark&count_private=true" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Azharaliii&show_icons=true&theme=github_dark&count_private=true" width="49.5%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azharaliii&theme=github_dark" width="49.5%" />
 </p>
 
@@ -112,5 +160,10 @@ A desktop application architecture designed to seamlessly connect local daily wa
 <p align="center">
   <a href="https://www.linkedin.com/in/mrazharali"><b>LinkedIn</b></a> •
   <a href="https://www.kaggle.com/azharalisoomro"><b>Kaggle</b></a> •
+  <a href="https://leetcode.com/u/AzharAli336/"><b>LeetCode</b></a> •
   <a href="mailto:azharaliofficial0521@gmail.com"><b>Email</b></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Azharaliii&label=Profile%20Views&color=20BEFF&style=flat" alt="Profile Views" />
 </p>

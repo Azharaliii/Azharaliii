@@ -44,7 +44,7 @@ I am a 3rd-year **BS Computer Science (Specialization in AI)** student at **Sukk
 ### 🚢 Titanic Survival EDA
 Explored deep survival patterns across metrics like gender, socio-economic class, ticket fare, and family sizes. Handled heavy missing values and created analytical distributions.
 * 🛠 `Python` `Pandas` `Matplotlib` `Seaborn` `EDA`
-* 🔗 [View Project Repository 🚀](https://github.com/Azharaliii/Titanic-EDA-Kaggle-Data-Set)
+* 🔗 [View Project Repository 🚀](https://github.com/Azharaliii/Titanic-EDA-Kaggle-Data-Set-)
 
 ---
 

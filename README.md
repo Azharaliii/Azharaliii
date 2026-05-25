@@ -148,12 +148,13 @@ A desktop application architecture designed to seamlessly connect local daily wa
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azharaliii&show_icons=true&theme=github_dark&count_private=true" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Azharaliii&show_icons=true&theme=github_dark&count_private=true&hide_border=true" width="49.5%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azharaliii&theme=github_dark" width="49.5%" />
 </p>
 
+<!-- ✅ FIXED: Using streak-stats.demolab.com — reliable, auto-updates on every commit -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azharaliii&theme=github_dark" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=Azharaliii&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="GitHub Streak Stats" />
 </p>
 
 ---

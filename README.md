@@ -45,10 +45,13 @@ I am a 3rd-year **BS Computer Science (Specialization in AI)** student at **Sukk
     <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" height="50"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" title="Pandas"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" title="NumPy"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="48" height="48" title="Matplotlib"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" title="Seaborn"/>
 </p>
 
 ### 🗄️ Databases
@@ -61,7 +64,7 @@ I am a 3rd-year **BS Computer Science (Specialization in AI)** student at **Sukk
 ### 🧰 Developer Tools & Platforms
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux&theme=dark" />
   </a>
 </p>
 <p>
@@ -69,14 +72,23 @@ I am a 3rd-year **BS Computer Science (Specialization in AI)** student at **Sukk
     <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" height="50"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" height="48"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="48"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="48"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="48"/>
 </p>
 
-</div>
+### 🌐 Networking
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="48"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="48"/>
+</p>
 
 ---
 
@@ -152,7 +164,6 @@ A desktop application architecture designed to seamlessly connect local daily wa
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azharaliii&theme=github_dark" width="49.5%" />
 </p>
 
-<!-- ✅ FIXED: Using streak-stats.demolab.com — reliable, auto-updates on every commit -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Azharaliii&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="GitHub Streak Stats" />
 </p>

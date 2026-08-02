@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey 👋 I'm Azhar Ali
-### 🤖 Data Analyst & ML Engineer
+### 🤖 Data Analyst
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20BEFF&center=true&vCenter=true&width=620&lines=BS+Computer+Science+(AI)+Student;Data+Science+%26+ML+Enthusiast;Turning+Data+Into+Insights;Problem+Solver+%7C+Builder+%7C+Learner" alt="Typing SVG" />
 

@@ -1,14 +1,11 @@
 <div align="center">
 
 # Hey 👋 I'm Azhar Ali
-### 🤖 Data Analyst
+### 🤖 Aspiring AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20BEFF&center=true&vCenter=true&width=620&lines=BS+Computer+Science+Specialization+in+(AI)+Student;Data+Science+%26+ML+Enthusiast;Turning+Data+Into+Insights;Problem+Solver+%7C+Builder+%7C+Learner" alt="Typing SVG" />
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20BEFF&center=true&vCenter=true&width=620&lines=BS+Computer+Science+Specialization+in+(AI)+Student;Aspiring+AI+Engineer;Turning+Data+Into+Insights;Problem+Solver+%7C+Builder+%7C+Learner" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrazharali)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.azharali1)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/azharalisoomro)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AzharAli336/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azharaliofficial0521@gmail.com)

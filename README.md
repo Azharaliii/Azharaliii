@@ -10,7 +10,7 @@
 
 </div>
 
-Data-focused CS student building AI/ML projects — from EDA and recommendation systems to AI-driven classification pipelines. Ranked 19/50 at IBA Karachi ProBattle ML Competition. Open to Data Analyst / Junior AI-ML internships.
+Data-focused CS student building AI/ML projects from EDA and recommendation systems to AI-driven classification pipelines. Ranked 19/50 at IBA Karachi ProBattle ML Competition. Open to Data Analyst / Junior AI-ML internships.
 
 ---
 

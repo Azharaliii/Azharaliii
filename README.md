@@ -1,88 +1,117 @@
-#                                                               Azhar Ali
+<div align="center">
 
-Computer Science student (AI Specialization) at Sukkur IBA University, Pakistan. I work with data and machine learning, and I build small AI products end to end.
+# Azhar Ali
 
-[LinkedIn](https://www.linkedin.com/in/mrazharali) | [Kaggle](https://www.kaggle.com/azharalisoomro) | [LeetCode](https://leetcode.com/u/AzharAli336/) | azharaliofficial0521@gmail.com
+### Data | Machine Learning | AI
 
----
+CS Student (AI Specialization) at Sukkur IBA University, Pakistan
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mrazharali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrazharali)
+[![Kaggle](https://img.shields.io/badge/Kaggle-azharalisoomro-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/azharalisoomro)
+[![LeetCode](https://img.shields.io/badge/LeetCode-AzharAli336-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AzharAli336/)
+[![Email](https://img.shields.io/badge/Email-azharaliofficial0521-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azharaliofficial0521@gmail.com)
 
-I am a third-year student who likes taking a messy dataset or a real problem and turning it into something useful: an analysis, a model or a working app.
+![Profile Views](https://komarev.com/ghpvc/?username=Azharaliii&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Azharaliii?label=Followers&style=flat-square&color=2c5364)
 
-- **What I do:** data analysis, machine learning, and building AI tools with Python.
-- **Product experience:** I was the Product Manager of **UpTally**, an AI tool that helps Upwork freelancers evaluate jobs. I was selected from 1,000+ applicants for the Comeback Pakistan accelerator, we shipped the MVP to real users in 8 weeks, and our squad placed 3rd out of 13 at Demo Day.
-- **Competitions:** Ranked 19th of 50 teams at the IBA Karachi ProBattle ML Competition.
-- **Looking for:** a Data Science internship where I can apply machine learning to real business problems.
-
----
-
-## Skills and Tech Stack
-
-| Area | What I use |
-|---|---|
-| Programming | Python, SQL, Java, C++ |
-| Machine Learning | Scikit-learn, Decision Trees, Naive Bayes, KNN, Linear and Logistic Regression, SVM |
-| Model Evaluation | Confusion Matrix, Precision, Recall, F1, ROC-AUC, Cross-Validation, Regularization |
-| Data Analysis | Pandas, NumPy, Matplotlib, Seaborn, data cleaning, EDA (exploratory data analysis), feature engineering |
-| Databases | MySQL, MongoDB |
-| Tools | Git, GitHub, Streamlit, Jupyter, Google Colab, Kaggle |
+</div>
 
 ---
 
-## Projects
+## 👨‍💻 About Me
 
-Each project below says what it does, so you can understand it without opening the code.
+```python
+class Azhar:
+    def __init__(self):
+        self.role        = "CS Student (AI Specialization) @ Sukkur IBA University"
+        self.focus       = ["Data Analysis", "Machine Learning", "AI Products"]
+        self.scholarship = "PEEF"
+        self.looking_for = "Data Science internship"
+        self.languages   = ["Python", "SQL", "Java", "C++"]
 
-### Machine Learning and AI Applications
+    def mission(self):
+        return "Take a messy dataset or a real problem and turn it into something useful."
+```
 
-**[Movie Recommendation System](https://github.com/Azharaliii/Movies-Recommendation-System)**
-Suggests movies similar to the one you pick. It compares movies by their content using cosine similarity, shows the top 10 matches and fetches live posters from the TMDB API.
-Tech: Python, Scikit-learn, Pandas, Streamlit
+- 🚀 Product Manager of **UpTally**, an AI tool that helps Upwork freelancers evaluate jobs
+- 🏆 Selected from **1,000+ applicants** for the Comeback Pakistan accelerator; shipped the MVP to real users in **8 weeks** and placed **3rd of 13** at Demo Day
+- 📊 Ranked **19th of 50 teams** at the IBA Karachi ProBattle ML Competition
+- 🎓 Executive Committee Member, Sukkur IBA Students' Council
+- 🌐 Campus Ambassador, CS Connect Pakistan | Class Representative
 
-**[PathAi 360](https://github.com/Azharaliii/PathAi-360)**
-A career guidance platform. The user takes a personality assessment and the app recommends suitable careers. I also refactored a ~2,000-line single-file codebase into a clean, modular structure so it is easier to maintain.
-Tech: Python, Streamlit, MongoDB
+---
 
-**[Bank Route AI Complaint System](https://github.com/Azharaliii/Bank-Route-AI-Driven-complaint-system)**
-Reads customer complaints sent to a bank, classifies them by type and routes them by priority so urgent ones are handled first.
-Tech: Python, Machine Learning
+## 🛠️ Tech Stack
 
-**UpTally**
-An AI tool for Upwork freelancers to evaluate jobs. As Product Manager I led user research and MVP planning, and owned the logo, branding and landing page.
-Tech: AI, Product Management, Design
+<div align="center">
 
-### Data Analysis Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**[Samsung Global Product Sales Analysis](https://github.com/Azharaliii/Samsung-Global-Product-DataSet-Analyze)**
-Cleaned and analyzed global sales data to see how products perform by region and age group, using correlation, skewness and heatmaps.
-Tech: Python, Pandas, NumPy, Matplotlib, Seaborn
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Pakistan Wheat Deficit Analysis**
-Combined 25 years of FAOSTAT and World Bank data to measure Pakistan's wheat deficit and estimate the yield needed to be self-sufficient by 2030.
-Tech: Python, Pandas, NumPy, Matplotlib
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-**Guftgu Publications Book Order Analysis**
-Analyzed 1,000+ book orders to find top-selling titles, which cities order the most and how revenue changes over time. Cleaned inconsistent dates and duplicate records first.
-Tech: Python, Pandas, NumPy, Matplotlib
+</div>
 
-**[Titanic Survival Analysis](https://github.com/Azharaliii/Titanic-EDA-Kaggale-Data-Set-) and GDP Time-Series Analysis**
-Studied 891 Titanic passenger records with 10+ visualizations, and analyzed GDP trends for 190+ countries from 2020 to 2025.
-Tech: Python, Pandas, Matplotlib, Seaborn
+- **ML techniques:** Decision Trees, Naive Bayes, KNN, Linear and Logistic Regression, SVM
+- **Evaluation:** Confusion Matrix, Precision, Recall, F1, ROC-AUC, Cross-Validation, Regularization
+- **Data work:** Data Cleaning, EDA, Feature Engineering
+
+---
+
+## 🚀 Featured Projects
+
+### Machine Learning and AI
+
+| Project | What it does | Tech |
+|---|---|---|
+| 🎬 [Movie Recommendation System](https://github.com/Azharaliii/Movies-Recommendation-System) | Suggests similar movies using cosine similarity, shows the top 10 matches and fetches live posters from the TMDB API | Python, Scikit-learn, Pandas, Streamlit |
+| 🧭 [PathAi 360](https://github.com/Azharaliii/PathAi-360) | Career guidance from a personality assessment. Refactored a ~2,000-line single file into a clean modular codebase | Python, Streamlit, MongoDB |
+| 🏦 [Bank Route AI Complaint System](https://github.com/Azharaliii/Bank-Route-AI-Driven-complaint-system) | Classifies customer complaints by type and routes them by priority so urgent ones are handled first | Python, Machine Learning |
+| 📱 UpTally | AI tool for Upwork freelancers to evaluate jobs. I led user research, MVP planning, logo, branding and landing page | AI, Product Management, Design |
+
+### Data Analysis
+
+| Project | What it does | Tech |
+|---|---|---|
+| 📊 [Samsung Global Product Sales](https://github.com/Azharaliii/Samsung-Global-Product-DataSet-Analyze) | Sales by region and age group using correlation, skewness and heatmaps | Pandas, NumPy, Seaborn |
+| 🌾 Pakistan Wheat Deficit Analysis | 25 years of FAOSTAT and World Bank data to estimate the yield needed for self-sufficiency by 2030 | Pandas, NumPy, Matplotlib |
+| 📚 Guftgu Publications Order Analysis | 1,000+ book orders: top titles, top cities, revenue over time | Pandas, NumPy, Matplotlib |
+| 🚢 [Titanic Survival Analysis](https://github.com/Azharaliii/Titanic-EDA-Kaggale-Data-Set-) and GDP Time-Series | 891 passenger records with 10+ visualizations, plus GDP trends for 190+ countries (2020 to 2025) | Pandas, Matplotlib, Seaborn |
 
 [See all repositories](https://github.com/Azharaliii?tab=repositories)
 
 ---
 
-## Education and Recognition
+## 🎓 Education and Certifications
 
-- BS Computer Science (AI Specialization), Sukkur IBA University. PEEF Scholarship recipient.
-- Certifications: Data Analytics Essentials (Cisco Networking Academy, 2026), Agentic AI and AI Agents (Vanderbilt University, Coursera).
-- Leadership: Executive Committee Member of the Sukkur IBA Students' Council, Campus Ambassador for CS Connect Pakistan, Class Representative.
+- **BS Computer Science (AI Specialization)**, Sukkur IBA University | PEEF Scholarship recipient
+- Data Analytics Essentials, Cisco Networking Academy (2026)
+- Agentic AI and AI Agents, Vanderbilt University (Coursera)
 
 ---
 
-## Contact
+## 🤝 Let's Connect
 
-Email: azharaliofficial0521@gmail.com
-LinkedIn: [linkedin.com/in/mrazharali](https://www.linkedin.com/in/mrazharali)
+I'm open to **Data Science internships** where I can apply machine learning to real business problems.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrazharali)
+[![Email](https://img.shields.io/badge/Send-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azharaliofficial0521@gmail.com)
+
+</div>
